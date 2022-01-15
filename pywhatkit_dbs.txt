@@ -1,0 +1,16 @@
+--------------------
+Date: 2:9:2021
+Time: 22:15
+Group_id: Par de chelas 2
+Message: Alerta de movimiento!, verificar imagen de camaras
+--------------------
+Date: 2:9:2021
+Time: 22:21
+Group_id: Par de chelas 2
+Message: Alerta de movimiento!, verificar imagen de camaras
+--------------------
+Date: 2:9:2021
+Time: 22:30
+Group_id: Par de chelas 2
+Message: Alerta de movimiento!, verificar imagen de camaras
+--------------------
